@@ -1,0 +1,8 @@
+/target
+/debug
+
+# This is not a library anyone should be depending on so Cargo.lock is irrelevant.
+Cargo.lock
+
+**/*.rs.bk
+*.pdb
